@@ -6,7 +6,7 @@ About the Dataset:
 
 Evaluation Metrics:
 
-The model's performance will be evaluated using the following metrics:
+The model's performance was evaluated using the following metrics:
 - Accuracy: The overall correctness of the classification.
 - Precision: The ratio of correctly predicted instances to the total predicted instances for each class.
 - Recall: The ratio of correctly predicted instances to the total actual instances for each class.
